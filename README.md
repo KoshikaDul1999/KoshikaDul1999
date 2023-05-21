@@ -33,3 +33,5 @@
 <a href="#KoshikaDul1999-title">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KoshikaDul1999&title_color=18d26e&text_color=ffffff&bg_color=040404&langs_count=8&layout=compact&border_color=18d26e" alt="KoshikaDul1999" align="right" />
 </a>
+
+[![An image of @koshikadul1999's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koshikadul1999)](https://holopin.io/@koshikadul1999)
