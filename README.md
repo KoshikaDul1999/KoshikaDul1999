@@ -2,6 +2,7 @@
   <a href="https://github.com/KoshikaDul1999">
     <img src="https://komarev.com/ghpvc/?username=KoshikaDul1999&style=flat-square&color=040404" alt="Visitors" />
   </a>
+  [![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
   <a href="https://github.com/KoshikaDul1999?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/KoshikaDul1999?style=flat-square&color=040404&labelColor=565656&logo=github" alt="Followers" />
   </a>
