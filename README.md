@@ -12,7 +12,7 @@
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
 <br>
-<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" ></p>
+<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" ></p>
 <br>
 
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://KoshikaDul1999.github.io)](https://KoshikaDul1999.github.io)
@@ -42,3 +42,4 @@
 </a>
 
 [![An image of @koshikadul1999's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/koshikadul1999)](https://holopin.io/@koshikadul1999)
+
