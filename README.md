@@ -2,7 +2,7 @@
   <a href="https://github.com/KoshikaDul1999">
     <img src="https://komarev.com/ghpvc/?username=KoshikaDul1999&style=flat-square&color=040404" alt="Visitors" />
   </a>
-  [![](https://visitcount.itsvg.in/api?id=mprabhashmp&icon=4&color=3)](https://visitcount.itsvg.in)
+  
   <a href="https://github.com/KoshikaDul1999?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/KoshikaDul1999?style=flat-square&color=040404&labelColor=565656&logo=github" alt="Followers" />
   </a>
@@ -11,6 +11,8 @@
 <h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello there! I'm Koshika Dulanjana</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
+<br>
+<p align="center"><img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" ></p>
 <br>
 
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://KoshikaDul1999.github.io)](https://KoshikaDul1999.github.io)
