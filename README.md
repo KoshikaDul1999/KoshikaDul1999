@@ -11,6 +11,7 @@
 <h1 align="left" id="macropower-title"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a> Hello there! I'm Koshika Dulanjana</h1>
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
+
 - 🌱 I’m currently learning **ReactJs, Spring Boot and Flutter**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
@@ -18,7 +19,7 @@
 - 📫 How to reach me: **koshikadulanjana95@gmail.com**
 
 <br>
-<p align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" ></p>
+<p align="right"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" ></p>
 <br>
 
 [![](https://img.shields.io/website?color=040404&style=flat-square&labelColor=18d26e&up_message=MS&url=https://KoshikaDul1999.github.io)](https://KoshikaDul1999.github.io)
