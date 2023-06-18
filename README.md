@@ -12,7 +12,7 @@
 <h3 align="left">I'm an undergraduate at University of Ruhuna in Sri Lanka (Reading for Bachelor of Information and Communication Technology Honours)</h3>
 
 
-- 🌱 I’m currently learning **ReactJs, NodeJs and Spring Boot**
+- 🌱 I’m currently learning **ReactJs, NodeJs and Flutter**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
